@@ -1,9 +1,15 @@
 # babylon
 
-# Features
-Account Registration - New users can create an account.
-Login and Logout - Users can log in and out securely.
-Firebase Authentication - Integrated with Firebase for account management.
+## ✨ Features
+
+- **Account Registration**  
+  New users can easily create an account.
+
+- **Login and Logout**  
+  Users can log in and log out securely.
+
+- **Firebase Authentication**  
+  Integrated with Firebase for seamless account management.
 
 ## Usage Notes
 
